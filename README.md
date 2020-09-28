@@ -1,4 +1,4 @@
-### Hi there 👋
+### Боже упаси меня от ламеров, а с хакерами я справлюсь сам...
 
 <!--
 **cyfive/cyfive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
