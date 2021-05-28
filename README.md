@@ -1,5 +1,7 @@
 ### ⚡ Боже упаси меня от ламеров, а с хакерами я справлюсь сам...
 
+<img src="https://github-readme-stats.vercel.app/api?username=cyfive&show_icons=true" alt="logo" height="160" />
+
 <!--
 **cyfive/cyfive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
