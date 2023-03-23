@@ -1,4 +1,4 @@
-### ⚡ God save me from lamers, and I can deal with hackers myself
+### ⚡ God save me from lamers, and I can handle hackers myself
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyfive&theme=blue-green)](https://github.com/cyfive)
 
